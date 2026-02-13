@@ -18,7 +18,7 @@ Why settle for "Radar" or "Oxygen" when you can wake up to a motivational memo f
 * **One-Tap Assignment:** Set your recordings as alarms instantly—no file moving required.
 
 ### 🎨 Material UI
-Experience the "Holy Grail" of Android software—a UI that feels alive. 
+Experience the "the gold standard" of Android software—a UI that feels alive. 
 * **Dynamic Color (Material You):** Every button, slider, and background breathes with your wallpaper’s palette.
 * **Stock Aesthetic:** 100% familiar, 0% learning curve. 
 
@@ -30,7 +30,6 @@ Experience the "Holy Grail" of Android software—a UI that feels alive.
 
 ## 🛠️ Technical Deep Dive
 
-Built with the precision of a 6th-semester BCA project at **Bennett University**, this app is a showcase of modern Android architecture:
 
 * **Language:** 100% **Kotlin** for concise, safe, and modern code.
 * **UI Framework:** **Jetpack Compose** utilizing Material 3 Expressive components for a native system feel.
