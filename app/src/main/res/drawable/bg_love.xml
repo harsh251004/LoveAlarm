@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Placeholder: replace this file with your romantic background image (bg_love.png or bg_love.jpg) -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:angle="135"
+        android:startColor="#FFFFF0F5"
+        android:centerColor="#FFFFE4EC"
+        android:endColor="#FFFFB6C1"
+        android:type="linear" />
+</shape>

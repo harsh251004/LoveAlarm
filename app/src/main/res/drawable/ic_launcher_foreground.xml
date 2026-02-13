@@ -1,0 +1,59 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Clock face circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,22C36.88,22 22,36.88 22,54C22,71.12 36.88,86 54,86C71.12,86 86,71.12 86,54C86,36.88 71.12,22 54,22Z" />
+    
+    <!-- Clock border -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeWidth="3"
+        android:strokeColor="#212121"
+        android:pathData="M54,22C36.88,22 22,36.88 22,54C22,71.12 36.88,86 54,86C71.12,86 86,71.12 86,54C86,36.88 71.12,22 54,22Z" />
+    
+    <!-- Clock hour markers as circles -->
+    <group>
+        <path
+            android:fillColor="#212121"
+            android:pathData="M54,25.5A2.5,2.5 0 1,1 54,30.5A2.5,2.5 0 1,1 54,25.5Z" />
+        <path
+            android:fillColor="#212121"
+            android:pathData="M77.5,54A2.5,2.5 0 1,1 82.5,54A2.5,2.5 0 1,1 77.5,54Z" />
+        <path
+            android:fillColor="#212121"
+            android:pathData="M54,77.5A2.5,2.5 0 1,1 54,82.5A2.5,2.5 0 1,1 54,77.5Z" />
+        <path
+            android:fillColor="#212121"
+            android:pathData="M25.5,54A2.5,2.5 0 1,1 30.5,54A2.5,2.5 0 1,1 25.5,54Z" />
+    </group>
+    
+    <!-- Clock center dot -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M54,50A4,4 0 1,1 54,58A4,4 0 1,1 54,50Z" />
+    
+    <!-- Hour hand (pointing to 3 o'clock) -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M54,54L66,54L54,42Z" />
+    
+    <!-- Minute hand (pointing to 12 o'clock) -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M54,54L54,28L50,32Z" />
+    
+    <!-- Heart shape at top (Love Alarm theme) -->
+    <path
+        android:fillColor="#E91E63"
+        android:pathData="M54,18C52.5,18 51,18.5 50,19.5C48,21.5 46,24 45,26C44,28 44,30 45,32C46,34 48,36 50,38L54,42L58,38C60,36 62,34 63,32C64,30 64,28 63,26C62,24 60,21.5 58,19.5C57,18.5 55.5,18 54,18Z" />
+    
+    <!-- Alarm bell at top -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M54,12C55.1,12 56,12.9 56,14C56,14.3 55.9,14.6 55.7,14.8L55,15.5C54.8,15.7 54.5,15.8 54.2,15.8C53.9,15.8 53.6,15.7 53.4,15.5L52.7,14.8C52.5,14.6 52.4,14.3 52.4,14C52.4,12.9 53.3,12 54.4,12H54Z" />
+</vector>
