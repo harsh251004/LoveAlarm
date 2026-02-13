@@ -1,12 +1,12 @@
-# 💓 Love Alarm: Your Morning, Humanized.
+# 💓 Love Alarm: Your Morning Mood Uplifter
 
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com)
 [![Language](https://img.shields.io/badge/Language-Kotlin-blue.svg)](https://kotlinlang.org)
 [![Design](https://img.shields.io/badge/Design-Material_3_Expressive-purple.svg)](https://m3.material.io)
 
-### Stop waking up to a machine. Start waking up to a memory.
+### Wake Up to the voice of someone you love. Simply Record their message and make it your morning alarm.
 
-**Love Alarm** isn't just another utility—it's a premium, open-source reimagining of the Stock Android Clock. While the native Google Clock is reliable, it's often cold. Love Alarm takes that world-class reliability and wraps it in a deeply personal, **Material You** experience that lets you wake up to the voices and sounds that actually matter to you.
+**Love Alarm** isn't just another utility—it's a premium, open-source reimagining of the Stock Android Clock. While the native Google Clock is reliable, it's often cold. Love Alarm takes that world-class reliability and wraps it in a deeply personal, **Material You** experience that lets you wake up to the voices and sounds that you would like to hear first thing in the morning.
 
 ---
 
