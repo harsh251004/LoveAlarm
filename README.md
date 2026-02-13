@@ -17,11 +17,10 @@ Why settle for "Radar" or "Oxygen" when you can wake up to a motivational memo f
 * **Integrated Voice Studio:** Record high-quality audio directly inside the app.
 * **One-Tap Assignment:** Set your recordings as alarms instantly—no file moving required.
 
-### 🎨 Material Expressive UI
+### 🎨 Material UI
 Experience the "Holy Grail" of Android software—a UI that feels alive. 
 * **Dynamic Color (Material You):** Every button, slider, and background breathes with your wallpaper’s palette.
-* **Bouncy & Bold:** Features the oversized typography and fluid, organic shapes of the modern **Material 3 Expressive** design language.
-* **Stock Aesthetic:** 100% familiar, 0% learning curve. It feels like it was pre-installed on your Pixel or Motorola.
+* **Stock Aesthetic:** 100% familiar, 0% learning curve. 
 
 ### 📂 Total Media Freedom
 * **System File Integration:** Browse your entire device. If you can download it, you can wake up to it. 
