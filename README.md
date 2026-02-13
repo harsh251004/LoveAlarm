@@ -24,7 +24,6 @@ Experience the "the gold standard" of Android software—a UI that feels alive.
 
 ### 📂 Total Media Freedom
 * **System File Integration:** Browse your entire device. If you can download it, you can wake up to it. 
-* **Lossless Support:** High-fidelity audio support for those who take their morning vibes seriously.
 
 ---
 
