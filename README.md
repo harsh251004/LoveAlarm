@@ -6,7 +6,7 @@
 
 ### Stop waking up to a machine. Start waking up to a memory.
 
-**Love Alarm** isn't just another utility—it's a premium, open-source reimagining of the Stock Android Clock. While the native Google Clock is reliable, it's often cold. Love Alarm takes that world-class reliability and wraps it in a deeply personal, **Material Expressive** experience that lets you wake up to the voices and sounds that actually matter to you.
+**Love Alarm** isn't just another utility—it's a premium, open-source reimagining of the Stock Android Clock. While the native Google Clock is reliable, it's often cold. Love Alarm takes that world-class reliability and wraps it in a deeply personal, **Material You** experience that lets you wake up to the voices and sounds that actually matter to you.
 
 ---
 
@@ -32,7 +32,7 @@ Experience the "the gold standard" of Android software—a UI that feels alive.
 
 
 * **Language:** 100% **Kotlin** for concise, safe, and modern code.
-* **UI Framework:** **Jetpack Compose** utilizing Material 3 Expressive components for a native system feel.
+* **UI Framework:** **Jetpack Compose** utilizing Material You components for a native system feel.
 * **State Management:** Clean **MVVM (Model-View-ViewModel)** architecture for rock-solid stability.
 * **Persistent Storage:** **Room Database** ensures your alarms survive restarts and updates.
 * **Precision Timing:** Leverages the **Android AlarmManager** for pixel-perfect wake-up calls.
