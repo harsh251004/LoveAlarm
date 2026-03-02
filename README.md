@@ -7,6 +7,11 @@
 ### Wake Up to the voice of someone you love. Simply Record their message and make it your morning alarm.
 
 **Love Alarm** isn't just another utility—it's a premium, open-source reimagining of the Stock Android Clock. While the native Google Clock is reliable, it's often cold. Love Alarm takes that world-class reliability and wraps it in a deeply personal, **Material You** experience that lets you wake up to the voices and sounds that you would like to hear first thing in the morning.
+<img width="597" height="1280" alt="image" src="https://github.com/user-attachments/assets/292dfcba-9e6b-46b4-83fa-5dd5e105fd0a" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/64d4e9c3-8129-4ed3-ba20-0b208fd34f85" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/7b03370e-9efe-426f-bc31-9bc87cec1f26" />
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/e59ec72d-f7cc-41e5-a3be-352e35a26214" />
+
 
 ---
 
