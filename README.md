@@ -48,7 +48,7 @@ Experience the "the gold standard" of Android software—a UI that feels alive.
 
 1.  **Clone the Vision:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Love-Alarm.git](https://github.com/YOUR_USERNAME/Love-Alarm.git)
+    git clone [https://github.com/harsh_251004/Love-Alarm.git](https://github.com/harsh_251004/Love-Alarm.git)
     ```
 2.  **Open in Android Studio:** (Ladybug or newer recommended).
 3.  **Sync & Run:** Experience the smoothest alarm UI on Android 12 (API 31) and above.
