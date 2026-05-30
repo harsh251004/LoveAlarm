@@ -16,7 +16,7 @@
 
 ---
 <a href="https://play.google.com/store/apps/details?id=com.secure.lovealarm">
-<img width="3840" height="1138" alt="Google_Play_Store_badge_EN svg" src="https://github.com/user-attachments/assets/b133641e-ca54-43ce-8848-bd8e27a7dfd6" />
+<img width="960" height="285" alt="image" src="https://github.com/user-attachments/assets/3f2f1c0b-dbd7-40c6-b211-4306e533ab1d" />
 </a>
 ## 🚀 Why Love Alarm?
 
